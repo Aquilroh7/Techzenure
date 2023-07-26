@@ -1,0 +1,53 @@
+Html
+Tables
+<html>
+    <head>
+        <title>UI Development</title>
+        <h1> Table Header</h1>
+        <body>
+
+            <table border="5">
+            <tr>
+                <th>Name</th>
+                <th>Mobile</th>
+                <th>Address</th>
+            </tr>
+
+            <tr>
+                <td>Aquil</td>
+                <td>7751230145</td>
+                <td>Malkajgiri</td>
+            </tr>
+        </body>
+    </table>
+    </head>
+</html>
+
+Radio
+<html>
+    <head>
+        <title>UI Development</title>
+
+        What is the size of burger: </br>
+
+        <body>
+            <input type="radio" name="Burger" size="S"> small</br>
+            <input type="radio" name="Burger" size="M"> medium</br>
+            <input type="radio" name="Burger" size="L"> large</br>
+        </body>
+    </head>
+
+</html>
+
+Checkbox
+<html>
+    <head>
+        <title>UI Development</title>
+        What type of transport do you use : </br>
+        <body>
+            <input type="checkbox" name="Car">I have a car</br>
+            <input type="checkbox" name="Bike"> I have a bike</br>
+        </body>
+    </head>
+</html>
+
